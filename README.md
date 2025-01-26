@@ -38,16 +38,6 @@ This project fosters a sense of community while promoting local businesses. It's
 
 [👉 Click here to try Tulsa Treasure!](https://sillysap.8thwall.app/webar/)
 
-*(Replace the link above with the correct URL if necessary.)*
-
----
-
-## How to Use This Repository
-
-1. Clone the repository to your local machine.
-2. Open the HTML file in your browser or host it on GitHub Pages.
-3. Customize the experience with your own riddles, VPS targets, and branding.
-
 ---
 
 ## Technology Stack
@@ -62,15 +52,3 @@ This project fosters a sense of community while promoting local businesses. It's
 - Add more VPS target locations across the city.
 - Include analytics to track engagement and user activity.
 - Expand to support other cities and regions.
-
----
-
-## Contributing
-
-We welcome contributions! If you have ideas or want to help improve the experience, feel free to submit a pull request.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
