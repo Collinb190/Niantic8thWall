@@ -36,7 +36,7 @@ This project fosters a sense of community while promoting local businesses. It's
 
 ## Experience the Magic
 
-[👉 Click here to try Tulsa Treasure!](https://sillysap.8thwall.app/webar/)
+[👉 Click here to try Tulsa Treasure!](https://collinb190.github.io/Niantic8thWall/)
 
 ---
 
